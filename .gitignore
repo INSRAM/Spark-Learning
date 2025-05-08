@@ -1,1 +1,3 @@
 .venv
+metastore_db
+spark-warehouse_python
