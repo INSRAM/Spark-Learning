@@ -1,0 +1,6 @@
+pyspark
+ipython
+python-dotenv        # for managing environment variables (DB creds)
+pandas               # helpful for small previews or PostgreSQL loads
+ipykernel
+findspark 
