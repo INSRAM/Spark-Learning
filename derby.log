@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Thu May 08 05:39:50 PKT 2025:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0196-ad55-9ae6-000003151480 
-on database directory /mnt/d/personal-work/learning/data-engineering/projects/pyspark/practice/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Wed May 14 02:04:07 PKT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0196-cb76-417a-0000020b58d8 
+on database directory /mnt/d/personal-work/learning/data-engineering/projects/pyspark/practise/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
 Loaded from file:/mnt/d/personal-work/learning/data-engineering/tools/spark/spark-3.5.5-bin-hadoop3/jars/derby-10.14.2.0.jar
 java.vendor=Ubuntu
 java.runtime.version=17.0.14+7-Ubuntu-122.04.1
-user.dir=/mnt/d/personal-work/learning/data-engineering/projects/pyspark/practice
+user.dir=/mnt/d/personal-work/learning/data-engineering/projects/pyspark/practise
 os.name=Linux
 os.arch=amd64
 os.version=4.4.0-26100-Microsoft
